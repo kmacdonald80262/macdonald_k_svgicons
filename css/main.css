@@ -10,6 +10,13 @@
 	flex-direction: row;
 }
 
+#siteContainer
+{
+	width: 920px;
+	padding-left: 40px;
+	padding-right: 20px;
+}
+
 
 #logo
 {
@@ -25,16 +32,95 @@
 {
 	background-color: black;
 	height: 15px;
-	width: 1500px;
+	width: 1400px;
 	margin-bottom: 50px;
 }
 
+
+#button1
+{
+	display: flex;
+	flex-direction: row;
+	margin-left: 280px;
+
+}
 #alien1
 {
 	margin-left: 100px;
 	display: flex;
 }
 
+#p1
+{
+	display: flex;
+	flex direction: row;
+	margin-left: 280px;
+	font-family: 'Staatliches', cursive;
+	font-size: 40px;
+}
+
+#p1 p:hover
+{
+	color: green;
+}
+
+#p1 p
+{
+	margin-top: 18px;
+}
+
+#p1 p2
+{
+	margin-left: 120px;
+	margin-top: 18px;
+}
+
+
+#p1 p2:hover
+{
+	color: yellow;
+}
+
+#p1 p3
+{
+	margin-left: 120px;
+	margin-top: 18px;
+}
+
+#p1 p3:hover
+{
+	color: red;
+}
+
+#p2
+{
+	display: flex;
+	flex-direction: row;
+	margin-left: 180px;
+	font-family: 'Staatliches', cursive;
+	font-size: 40px;
+}
+
+#p2 p 
+{
+	margin-left: 210px;
+	margin-top: 15px;
+}
+
+#p2 p:hover
+{
+	color: blue;
+}
+
+#p2 p2
+{
+	margin-left: 240px;
+	margin-top: 18px;
+}
+#p2 p2:hover
+{
+	color: purple;
+}
 #alien2
 {
 	margin-left: 70px;
@@ -94,5 +180,5 @@
 
 #alien4
 {
-	
+
 }
