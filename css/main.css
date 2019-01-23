@@ -1,0 +1,93 @@
+@charset "UTF-8";
+
+.hidden{
+	display: none;
+}
+
+#image-wrapper
+{
+	display: flex;
+	flex-direction: row;
+}
+
+
+#logo
+{
+	margin-left: 550px;
+	margin-bottom: 20px;
+	display: flex;
+	flex-direction: row;
+	height: 200px;
+	width: 400px;
+}
+
+#header
+{
+	background-color: black;
+	height: 15px;
+	width: 1500px;
+	margin-bottom: 50px;
+}
+
+#alien1
+{
+	margin-left: 100px;
+	display: flex;
+}
+
+#alien2
+{
+	margin-left: 70px;
+}
+
+#alien3
+{
+	margin-left: 60px;
+}
+
+#firstRow
+{
+	display: flex;
+	flex-direction: row;
+}
+
+#secondRow
+{
+	display: flex;
+	flex-direction: row;
+}
+
+#alien8
+{
+	margin-left: 150px;
+	margin-top: 50px;
+}
+
+#alien9
+{
+	margin-left: 140px;
+}
+
+#thirdRow
+{
+	display: flex;
+	flex-direction: row;
+}
+
+#alien6
+{
+	margin-left: 100px;
+	margin-top: 40px;
+}
+
+#alien5
+{
+	margin-left: 70px;
+	margin-top: 60px;
+}
+
+#alien7
+{
+	margin-left: 60px;
+	margin-top: 40px;
+}
