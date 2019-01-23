@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="alien9" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 248.9 193.2" style="enable-background:new 0 0 248.9 193.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#A005A5;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+	.st1{fill:#F23BED;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st3{stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+</style>
+<ellipse id="foot-right" class="st0" cx="184" cy="171.1" rx="62.9" ry="20"/>
+<ellipse id="foot-left" class="st0" cx="64.9" cy="171.1" rx="62.9" ry="20"/>
+<circle id="body" class="st0" cx="127.8" cy="109.9" r="52.8"/>
+<path id="hair" class="st1" d="M78.2,91.9L42.1,31.2L94,69.4l5.1-63.3l28.8,51l22.3-51l4.3,58.2l45.7-28.2l-27.9,45.2
+	C172.2,81.4,117.4,23.6,78.2,91.9z"/>
+<ellipse id="eye" class="st2" cx="135.6" cy="117.5" rx="29.5" ry="25.6"/>
+<circle id="pupil" class="st3" cx="133.6" cy="115.7" r="12.5"/>
+</svg>
