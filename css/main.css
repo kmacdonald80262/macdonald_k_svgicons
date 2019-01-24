@@ -4,22 +4,19 @@
 	display: none;
 }
 
-#image-wrapper
-{
+#image-wrapper{
 	display: flex;
 	flex-direction: row;
 }
 
-#siteContainer
-{
-	width: 920px;
+#siteContainer{
+	width: 900px;
 	padding-left: 40px;
 	padding-right: 20px;
 }
 
 
-#logo
-{
+#logo{
 	margin-left: 550px;
 	margin-bottom: 20px;
 	display: flex;
@@ -28,8 +25,7 @@
 	width: 400px;
 }
 
-#header
-{
+#header{
 	background-color: black;
 	height: 15px;
 	width: 1400px;
@@ -37,21 +33,19 @@
 }
 
 
-#button1
-{
+#button1{
 	display: flex;
 	flex-direction: row;
 	margin-left: 280px;
 
 }
-#alien1
-{
+
+#alien1{
 	margin-left: 100px;
 	display: flex;
 }
 
-#p1
-{
+#p1{
 	display: flex;
 	flex direction: row;
 	margin-left: 280px;
@@ -59,41 +53,34 @@
 	font-size: 40px;
 }
 
-#p1 p:hover
-{
+#p1 p:hover{
 	color: green;
 }
 
-#p1 p
-{
+#p1 p{
 	margin-top: 18px;
 }
 
-#p1 p2
-{
+#p1 p2{
 	margin-left: 120px;
 	margin-top: 18px;
 }
 
 
-#p1 p2:hover
-{
+#p1 p2:hover{
 	color: yellow;
 }
 
-#p1 p3
-{
+#p1 p3{
 	margin-left: 120px;
 	margin-top: 18px;
 }
 
-#p1 p3:hover
-{
+#p1 p3:hover{
 	color: red;
 }
 
-#p2
-{
+#p2{
 	display: flex;
 	flex-direction: row;
 	margin-left: 180px;
@@ -101,84 +88,139 @@
 	font-size: 40px;
 }
 
-#p2 p 
-{
+#p2 p {
 	margin-left: 210px;
 	margin-top: 15px;
 }
 
-#p2 p:hover
-{
+#p2 p:hover{
 	color: blue;
 }
 
-#p2 p2
-{
+#p2 p2{
 	margin-left: 240px;
 	margin-top: 18px;
 }
-#p2 p2:hover
-{
+
+#p2 p2:hover{
 	color: purple;
 }
-#alien2
-{
+
+#p3{
+	display: flex;
+	flex-direction: inline;
+	margin-left: 180px;
+	font-family: 'Staatliches', cursive;
+	font-size: 40px;
+}
+
+#p3 p{
+	margin-left: 120px;
+
+}
+
+#p3 p:hover{
+	color: orange;
+}
+
+#p3 p2{
+	margin-left: 120px;
+}
+
+#p3 p2:hover{
+	color: lightblue;
+}
+
+#p3 p1{
+	margin-left: 80px;
+}
+
+#p3 p1:hover{
+	color: pink;
+}
+
+#p4{
+	display: flex;
+	flex-direction: inline;
+	margin-left: 180px;
+	font-family: 'Staatliches', cursive;
+	font-size: 40px;
+}
+
+#p4 p{
+	margin-left: 200px;
+}
+
+#p4 p:hover{
+	color: purple;
+}
+
+#p4 p1{
+	margin-left: 300px;
+}
+
+#p4 p1:hover{
+	color: darkgreen;
+}
+
+#alien2{
 	margin-left: 70px;
 }
 
-#alien3
-{
+#alien3{
 	margin-left: 60px;
 }
 
-#firstRow
-{
+#firstRow{
 	display: flex;
 	flex-direction: row;
 }
 
-#secondRow
-{
+#secondRow{
 	display: flex;
 	flex-direction: row;
 }
 
-#alien8
-{
+#lastRow{
+	display: flex;
+	flex-direction: row;
+}
+
+#alien10{
+	margin-top: 40px;
+	margin-left: 140px;
+}
+
+#alien8{
 	margin-left: 150px;
 	margin-top: 50px;
 }
 
-#alien9
-{
+#alien9{
 	margin-left: 140px;
 }
 
-#thirdRow
-{
+#thirdRow{
 	display: flex;
 	flex-direction: row;
 }
 
-#alien6
-{
+#alien6{
 	margin-left: 100px;
 	margin-top: 40px;
 }
 
-#alien5
-{
+#alien5{
 	margin-left: 70px;
 	margin-top: 60px;
 }
 
-#alien7
-{
+#alien7{
 	margin-left: 60px;
 	margin-top: 40px;
 }
 
-#alien4
-{
-
+#alien4{
+	margin-top: 40px;
+	margin-left: 180px;
 }
