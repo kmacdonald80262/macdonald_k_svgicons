@@ -1,12 +1,12 @@
 # macdonald_k_svgicons
 
-###Monster Mash###
+**Monster Mash**
 
 Monster Mash is an icon library with monsters representing different
 emotions or moods similar to emoticons
 
 
-###Installation/Usage###
+**Installation/Usage**
 
 git init
 
@@ -21,13 +21,13 @@ cd collier_v_macdonald_k_fip
 Then you can see my icon set!
 
 
-###Built With###
+**Built With**
 
 HTML5
 CSS 3
 JavaScript
 
 
-###Authors###
+**Authors**
 
 [Kathleen MacDonald](https://github.com/kmacdonald80262)- *Developer and Designer
